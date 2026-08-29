@@ -1,0 +1,3 @@
+[user]
+	email = nannerachaitanyasagar@gmail.com
+	name = Chaitanya Sagar
